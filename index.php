@@ -11,6 +11,8 @@ Alcuni prodotti (es. antipulci) avranno la caratteristica che saranno disponibil
 
     // includo file customer.php
     include 'entities/customer.php';
-
-
+    // includo file product.php
+    include 'entities/product.php';
+    // includo file cart.php
+    include 'entities/cart.php';
 ?>
